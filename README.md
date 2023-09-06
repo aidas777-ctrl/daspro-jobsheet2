@@ -1,3 +1,5 @@
 # Dasar pemrograman - Jobsheet 2
 
-Hello Github, ini adalah repository pertama saya Aida Rahma.
+Nama : Aida Rahma fadhila
+Prodi : Teknik Informatika
+Jurusan : Teknologi Informasi
